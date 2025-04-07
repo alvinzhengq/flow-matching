@@ -11,7 +11,7 @@ Two unconditioned, flow-matching generative models for Gaussian CondOT probabili
     <img width="22%" src="assets/distribution_t100.png">
 </p>
 
-- `fashion.ipynb` implements a training procedure for generating images based on the FashionMNIST dataset, from Gaussian noise images. The model architecture is a simplified UNet, with residual connections between the encoder and decoder blocks. Model size: ~21 million parameters.
+- `fashion.ipynb` implements a training procedure for generating images based on the FashionMNIST dataset, from Gaussian noise images. The model architecture is a simplified U-Net, with residual connections between the encoder and decoder blocks. Model size: ~21 million parameters.
 
 <p align="center" width="100%">
     <img width="35%" src="assets/fashion.png">
