@@ -1,3 +1,5 @@
+outputs/
 *.pt
 
-distributions/__pycache__/
+data/__pycache__/
+data/FashionMNIST/
